@@ -2,6 +2,8 @@
 
 ![Dashboard Preview](print-dashboard-vendas-2.png)
 
+![Dashboard Preview](print2-dashboard-vendas-2.png)
+
 ## 🚀 Visão Geral
 
 Este projeto consiste na construção de um dashboard interativo desenvolvido no Power BI, com o objetivo de analisar o desempenho de vendas de forma estratégica, permitindo a tomada de decisão baseada em dados.
